@@ -1,0 +1,7 @@
+
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø—òb
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰»³£¿-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰»³£¿-
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8‰»³£¿-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ä¸´£¿-

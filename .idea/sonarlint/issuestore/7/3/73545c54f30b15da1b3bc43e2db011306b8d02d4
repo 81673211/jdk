@@ -1,0 +1,8 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Æ»·œ¿-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¸½ª8Ö”µœ¿-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ÕÆùÿÿÿÿ8Ìú¶œ¿-
+Vsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ8Æ»·œ¿-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æ»·œ¿-

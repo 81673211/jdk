@@ -1,0 +1,7 @@
+
+qsquid:S1450"PRemove the "i" field and declare it as a local variable in the relevant methods.(ίχ­δόÿÿÿÿ8Χέ²°-
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»γίΊψÿÿÿÿ8όήλ²°-
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Χέ²°-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ζ²εψÿÿÿÿ8Χέ²°-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8Χέ²°-
